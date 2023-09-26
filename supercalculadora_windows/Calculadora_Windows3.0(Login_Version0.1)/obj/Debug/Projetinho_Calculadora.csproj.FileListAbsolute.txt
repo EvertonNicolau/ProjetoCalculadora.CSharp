@@ -1,0 +1,15 @@
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\bin\Debug\Calculadora_Windows3.0(Login_Version0.1).exe.config
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\bin\Debug\Calculadora_Windows3.0(Login_Version0.1).exe
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\bin\Debug\Calculadora_Windows3.0(Login_Version0.1).pdb
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Projetinho_Calculadora.csprojAssemblyReference.cache
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3._0_Login_Version0._1_.Calculadora3.resources
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3._0_Login_Version0._1_.CalculadoraSimples.resources
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3._0_Login_Version0._1_.CalculadoraComplexada.resources
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3._0_Login_Version0._1_.CalculadoraRadio.resources
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3._0_Login_Version0._1_.Login.resources
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3._0_Login_Version0._1_.Menu.resources
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3._0_Login_Version0._1_.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Projetinho_Calculadora.csproj.GenerateResource.cache
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Projetinho_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3.0(Login_Version0.1).exe
+C:\Users\LabInfo\Desktop\supercalculadora_windows\Calculadora_Windows3.0(Login_Version0.1)\obj\Debug\Calculadora_Windows3.0(Login_Version0.1).pdb
